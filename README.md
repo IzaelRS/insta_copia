@@ -4,4 +4,7 @@
 </div>
 <div align="center">
   <img src="./src/git/Screenshot_1645667992.png" height ="600" width="350">
+  <img src="./src/git/Screenshot_1645668006.png" height ="600" width="350">
+  <img src="./src/git/Screenshot_1645668021.png" height ="600" width="350">
+  <img src="./src/git/Screenshot_1645668026.png" height ="600" width="350">
 </div>
